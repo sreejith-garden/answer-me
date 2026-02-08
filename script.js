@@ -61,7 +61,7 @@ function checkAnswer(i) {
     loadQuestion();
   } else {
     questionEl.innerText = `❤️ You scored ${score}/${quiz.length}`;
-    optionsEl.innerHTML = "<p>Screenshot & share 😎</p>";
+    optionsEl.innerHTML = "<p> Kunju maniye u are so hot and cute👄</p>";
   }
 }
 
